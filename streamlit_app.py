@@ -3,7 +3,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sb
 
-%matplotlib inline
 
 
 db=pd.read_excel('user_cvrg_20210719.xls', header=1)
